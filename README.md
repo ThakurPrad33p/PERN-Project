@@ -1,8 +1,5 @@
-<h1 align="center">✨ PERN Stack Tutorial ✨</h1>
+<h1 align="center">✨ PERN Stack  ✨</h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
-
-Highlights:
 
 - 🌟 Tech stack: PERN + TailwindCSS + Daisy UI
 - 🚀 Rate Limiting & Bot Detection
